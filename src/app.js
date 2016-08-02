@@ -1,3 +1,9 @@
 const React = require('react');
 
-module.exports = React.createElement('h1', {}, 'Hello World');
+const App = React.createClass({
+  render: function(){
+    return React.createElement('h1', {}, 'Hello World');
+  }
+});
+
+module.exports = App;
