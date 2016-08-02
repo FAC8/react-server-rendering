@@ -65,3 +65,5 @@ server.route({
 In this example we are not using *jsx*, but the repo where this README
 is stored comes with an example of how to do so. Check the first
 commits to see how we developed the example in this readme.
+
+The code of the example used in this readme can be found on the branch [readme-example](https://github.com/FAC8/react-server-rendering/tree/readme-example) of this repo.
