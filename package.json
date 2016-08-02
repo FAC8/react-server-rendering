@@ -11,10 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "handlebars": "^4.0.5",
     "hapi": "^14.1.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0",
-    "vision": "^4.1.0"
+    "react-dom": "^15.3.0"
   }
 }
